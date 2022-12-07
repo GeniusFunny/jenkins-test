@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/GeniusFunny/jenkins-test#readme",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "koa": "^2.11.0",
     "koa-router": "^8.0.8"
   }
